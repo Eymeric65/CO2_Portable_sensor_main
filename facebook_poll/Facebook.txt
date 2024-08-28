@@ -1,0 +1,10 @@
+[Projet Perso][Open source][Mini sondage]
+Bonjour à toutes et à tous, 
+De plus en plus la concentration de CO2 dans les lieux de travail et de vie devient préoccupante. Le taux de CO2 est hautement lié avec la baisse de productivité et la baisse de concentration.
+
+Je suis entrain sonc de travailler sur un nouveau projet, une sonde de CO2 portative pour particulier.
+Malgré le fait que le projet soit entièrement open source, j'aimerais pouvoir commercialiser une version pour ceux qui ont la flemme de le faire eux même.  C'est pour cela que j'aurais besoin de savoir si le projet intéresse.
+
+Le sondage à 7 questions a choix multiples ca prend 2 minutes mais ca m'aiderait à avoir une vue un peu plus éclairé :
+https://forms.gle/ANX92uUuHyCVbV3y7
+Fleixh pour ne jamais arrêter le grind

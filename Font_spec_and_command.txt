@@ -1,0 +1,16 @@
+General command : magick INFOfont.png -resize 184x88! -depth 1 -negate -rotate -90 icon.h
+
+Commande : magick CO2font.png -depth 1 -negate icon.h 
+need to skip the first 10 bytes
+
+Time font spec:
+19 pixels height
+11 pixels wide
+
+CO2 font spec:
+27 pixels height
+12 pixels wide
+
+Info font spec:
+14 pixels height
+7 pixels wide (6 for one pixel space)

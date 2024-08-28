@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L031F6P7
+D STMICROELECTRONICS - STM32L031F6P7 - MCU, ARM CORTEX-M0+, 32MHZ, TSSOP-20
+K
+F https://www.st.com/resource/en/datasheet/stm32l031f6.pdf
+$ENDCMP
+#
+#End Doc Library

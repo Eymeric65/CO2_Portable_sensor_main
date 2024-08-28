@@ -1,0 +1,41 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rows": "4",
+        "cols": "2",
+        "hbonecut": "False"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "offset": "-0.3mm"
+    },
+    "framing": {
+        "type": "railslr",
+        "width": "4.5mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "2.25mm",
+        "voffset": "2.25mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "2.25mm",
+        "voffset": "6mm",
+	"coppersize": "2mm",
+	"opening":"1mm"
+    },
+    "text": {
+        "type": "simple",
+	"anchor": "mr",
+        "voffset": "2.25mm",
+        "width": "1.3mm",
+        "height": "1.3mm",
+        "thickness": "0.15mm",
+        "hjustify": "center",
+	"layer":"F.Silkscreen",
+        "orientation": "90deg",
+        "text": "Handheld CO2 Sensor Panel V1.0"
+    }
+}
